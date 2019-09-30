@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pattern Library on TouchPoint Patterns</title>
-    <link>http://timdavila.github.io/patterns/</link>
+    <link>https://timdavila.github.io/patterns/</link>
     <description>Recent content in Pattern Library on TouchPoint Patterns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Sep 2019 11:05:36 -0500</lastBuildDate>
     
-	<atom:link href="http://timdavila.github.io/patterns/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://timdavila.github.io/patterns/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Snackbar</title>
-      <link>http://timdavila.github.io/patterns/component/snackbar/</link>
+      <link>https://timdavila.github.io/patterns/component/snackbar/</link>
       <pubDate>Mon, 30 Sep 2019 11:05:36 -0500</pubDate>
       
-      <guid>http://timdavila.github.io/patterns/component/snackbar/</guid>
+      <guid>https://timdavila.github.io/patterns/component/snackbar/</guid>
       <description>Used for displaying in place and immediate feedback. Appears at the bottom of the screen for a short period of time and then disappears.
 Include the element in your layout file: The element is already included in the standard TouchPoint layout. &amp;lt;div class=&amp;quot;snackbar&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
 Include the script: The script is already included in the standard TouchPoint layout. @Fingerprint.Script(&amp;quot;/Content/touchpoint/js/snackbar.js&amp;quot;)

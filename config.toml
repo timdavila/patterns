@@ -1,4 +1,4 @@
-baseURL = "http://timdavila.github.io/patterns/"
+baseURL = "https://timdavila.github.io/patterns/"
 author = "Tim Davila"
 languageCode = "en-us"
 title = "TouchPoint Patterns"
