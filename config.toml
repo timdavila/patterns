@@ -1,0 +1,25 @@
+baseURL = "http://timdavila.github.io/patterns/"
+author = "Tim Davila"
+languageCode = "en-us"
+title = "TouchPoint Patterns"
+theme = "hugo-theme-learn"
+publishDir = "docs"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params]
+themeVariant = "blue"
+
+[[menu.shortcuts]] 
+name = "<i class='fab fa-github'></i> Github repo"
+identifier = "gh"
+url = "https://github.com/bvcms/bvcms"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-bookmark'></i> Documentation"
+identifier = "doc"
+url = "https://docs.touchpointsoftware.com/"
+weight = 20
+
