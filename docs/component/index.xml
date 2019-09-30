@@ -27,9 +27,9 @@
       
       <guid>https://timdavila.github.io/patterns/component/snackbar/</guid>
       <description>Used for displaying in place and immediate feedback. Appears at the bottom of the screen for a short period of time and then disappears.
-Include the element in your layout file: The element is already included in the standard TouchPoint layout. &amp;lt;div class=&amp;quot;snackbar&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
-Include the script: The script is already included in the standard TouchPoint layout. @Fingerprint.Script(&amp;quot;/Content/touchpoint/js/snackbar.js&amp;quot;)
-Use the snackbar in an AJAX form: The error state will display a sweetalert.</description>
+Include the element in your layout file: The element is already included in the standard TouchPoint layout.
+ &amp;lt;div class=&amp;quot;snackbar&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;  Include the script: The script is already included in the standard TouchPoint layout.
+ @Fingerprint.Script(&amp;quot;/Content/touchpoint/js/snackbar.js&amp;quot;)  Use the snackbar in an AJAX form: The error state will display a sweetalert.</description>
     </item>
     
   </channel>

@@ -10,10 +10,17 @@ home = ["HTML", "RSS", "JSON"]
 
 [params]
 themeVariant = "blue"
+editURL = "https://github.com/timdavila/patterns/edit/master/content/"
 
 [[menu.shortcuts]] 
-name = "<i class='fab fa-github'></i> Github repo"
+name = "<i class='fab fa-github'></i> Patterns repo"
 identifier = "gh"
+url = "https://github.com/timdavila/patterns"
+weight = 5
+
+[[menu.shortcuts]] 
+name = "<i class='fab fa-github'></i> TouchPoint repo"
+identifier = "tp"
 url = "https://github.com/bvcms/bvcms"
 weight = 10
 

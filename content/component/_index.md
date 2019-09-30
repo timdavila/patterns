@@ -5,4 +5,4 @@ chapter = true
 
 # UI Components
 
-{{% children description="true" %}}
+{{% children style="h3" description="true" %}}
