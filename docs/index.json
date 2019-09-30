@@ -1,0 +1,36 @@
+[
+{
+	"uri": "http://timdavila.github.io/patterns/component/snackbar/",
+	"title": "Snackbar",
+	"tags": [],
+	"description": "Used for displaying in place and immediate feedback.",
+	"content": " Used for displaying in place and immediate feedback. Appears at the bottom of the screen for a short period of time and then disappears.\nInclude the element in your layout file: The element is already included in the standard TouchPoint layout. \u0026lt;div class=\u0026quot;snackbar\u0026quot;\u0026gt;\u0026lt;/div\u0026gt;\nInclude the script: The script is already included in the standard TouchPoint layout. @Fingerprint.Script(\u0026quot;/Content/touchpoint/js/snackbar.js\u0026quot;)\nCall the snackbar programatically: snackbar(message, type, duration)\nArguments  message - Text to be displayed type - A bootstrap contextual class (one of success, warning, danger) duration - Optional, defaults to 2000. The time to display in ms  "
+},
+{
+	"uri": "http://timdavila.github.io/patterns/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://timdavila.github.io/patterns/",
+	"title": "Pattern Library",
+	"tags": [],
+	"description": "",
+	"content": " TouchPoint Pattern Library Welcome to the Pattern Library  UI Components    Snackbar      "
+},
+{
+	"uri": "http://timdavila.github.io/patterns/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://timdavila.github.io/patterns/component/",
+	"title": "UI Components",
+	"tags": [],
+	"description": "",
+	"content": " UI Components  Snackbar  Used for displaying in place and immediate feedback.\n "
+}]
